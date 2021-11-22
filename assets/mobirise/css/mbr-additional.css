@@ -99,7 +99,7 @@ body {
   border-radius: 4px;
 }
 .bg-primary {
-  background-color: #6592e6 !important;
+  background-color: blue !important;
 }
 .bg-success {
   background-color: #40b0bf !important;
@@ -115,8 +115,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #6592e6 !important;
-  border-color: #6592e6 !important;
+  background-color: blue !important;
+  border-color: blue !important;
   color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
@@ -1032,6 +1032,7 @@ a {
   padding-top: 10rem;
   padding-bottom: 10rem;
   background-color: #ffffff;
+  background-image: url("../../images/background_section.jpg");
 }
 .cid-sFzxmVl7J6 .row {
   flex-direction: row-reverse;
@@ -1056,13 +1057,13 @@ a {
   }
 }
 .cid-sFzxmVl7J6 .mbr-text,
-.cid-sFzxmVl7J6 .mbr-section-btn {
-  color: #353535;
+.cid-sFzxmVl7J6 .mbr-section-btn, .cid-sFzxmVl7J6 .mbr-section-title {
+  color: white;
 }
 .cid-sFzyUE9AaP {
   padding-top: 8rem;
   padding-bottom: 9rem;
-  background-color: #fafafa;
+  background-color: #84b428;
 }
 @media (min-width: 1500px) {
   .cid-sFzyUE9AaP .container {
@@ -1083,18 +1084,18 @@ a {
 }
 .cid-sFzyUE9AaP .card-title,
 .cid-sFzyUE9AaP .iconfont-wrapper {
-  color: #000000;
+  color: white;
 }
 .cid-sFzyUE9AaP .card-text {
-  color: #000000;
+  color: white;
 }
 .cid-sFzyUE9AaP .mbr-section-title {
-  color: #000000;
+  color: white;
 }
 .cid-sNgsnbKYmz {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #d96149;
 }
 .cid-sNgsnbKYmz img,
 .cid-sNgsnbKYmz .item-img {
@@ -1112,7 +1113,7 @@ a {
 .cid-sNgsnbKYmz .item-wrapper {
   position: unset;
   border-radius: 4px;
-  background: #ffffff;
+  background: white;;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1137,7 +1138,7 @@ a {
   margin-top: auto !important;
 }
 .cid-sNgsnbKYmz .mbr-section-title {
-  color: #000000;
+  color: #fff;
 }
 .cid-sNgsnbKYmz .mbr-text,
 .cid-sNgsnbKYmz .mbr-section-btn {
@@ -1152,7 +1153,7 @@ a {
 .cid-sFAyMcKwph {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #ffffff;
+  background-color: purple;
 }
 .cid-sFAyMcKwph .media-container-row {
   justify-content: space-between;
@@ -1193,10 +1194,10 @@ a {
   }
 }
 .cid-sFAyMcKwph .mbr-section-title {
-  color: #353535;
+  color:white;
 }
 .cid-sFAyMcKwph P {
-  color: #000000;
+  color: white;
 }
 .cid-sFCygHrmNf {
   padding-top: 2rem;
@@ -1240,8 +1241,8 @@ a {
   justify-content: flex-end;
 }
 .cid-sFCygHrmNf .row .social-list .mbr-iconfont-social {
-  font-size: 1.5rem;
-  color: #ffffff;
+  font-size: 3rem;
+  color: black;
 }
 .cid-sFCygHrmNf .row .social-list .soc-item {
   margin: 0 .5rem;
